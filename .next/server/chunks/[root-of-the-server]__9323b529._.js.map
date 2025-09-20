@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 16, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/royal/OneDrive/Desktop/Saasnotesapp/saas-notes-app/pages/api/health.js"],"sourcesContent":["export default function handler(req, res) {\r\n  res.status(200).json({ status: \"ok\" });\r\n}\r\n"],"names":[],"mappings":";;;;AAAe,SAAS,QAAQ,GAAG,EAAE,GAAG;IACtC,IAAI,MAAM,CAAC,KAAK,IAAI,CAAC;QAAE,QAAQ;IAAK;AACtC","debugId":null}}]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 43, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/royal/OneDrive/Desktop/Saasnotesapp/saas-notes-app/app/api/health/route.js"],"sourcesContent":["export async function GET() {\r\n  return Response.json({ status: 'OK', timestamp: new Date().toISOString() });\r\n}"],"names":[],"mappings":";;;;AAAO,eAAe;IACpB,OAAO,SAAS,IAAI,CAAC;QAAE,QAAQ;QAAM,WAAW,IAAI,OAAO,WAAW;IAAG;AAC3E","debugId":null}}]
+}

@@ -1,0 +1,7 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 3, "column": 0}, "map": {"version":3,"sources":[],"names":[],"mappings":"","debugId":null}},
+    {"offset": {"line": 15, "column": 0}, "map": {"version":3,"sources":["file:///C:/Users/royal/OneDrive/Desktop/Saasnotesapp/saas-notes-app/app/page.js"],"sourcesContent":["export default function Home() {\n  return (\n    <div className=\"min-h-screen flex items-center justify-center bg-gray-50\">\n      <div className=\"max-w-md w-full space-y-8\">\n        <div className=\"text-center\">\n          <h1 className=\"text-4xl font-bold text-gray-900 mb-4\">\n            SaaS Notes App\n          </h1>\n          <p className=\"text-gray-600 mb-8\">\n            Welcome to your personal notes management system\n          </p>\n          <a \n            href=\"/auth/login\"\n            className=\"bg-blue-500 hover:bg-blue-600 text-white px-6 py-3 rounded-lg transition-colors\"\n          >\n            Go to Login\n          </a>\n        </div>\n      </div>\n    </div>\n  );\n}"],"names":[],"mappings":";;;;;;AAAe,SAAS;IACtB,qBACE,sQAAC;QAAI,WAAU;kBACb,cAAA,sQAAC;YAAI,WAAU;sBACb,cAAA,sQAAC;gBAAI,WAAU;;kCACb,sQAAC;wBAAG,WAAU;kCAAwC;;;;;;kCAGtD,sQAAC;wBAAE,WAAU;kCAAqB;;;;;;kCAGlC,sQAAC;wBACC,MAAK;wBACL,WAAU;kCACX;;;;;;;;;;;;;;;;;;;;;;AAOX","debugId":null}}]
+}
